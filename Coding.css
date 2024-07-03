@@ -1,0 +1,53 @@
+body{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(background1.jpg); 
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    padding-top: 50px;
+    color: rgb(25, 201, 25);
+}
+div{
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.432);
+    border-radius: 20px;
+}
+nav{
+    padding: 15px;
+    margin-inline: 10%;
+    background-color: rgb(25, 201, 25);
+}
+main{
+    padding-top: 15px;
+    margin-inline: 10%;
+    color: white;
+    text-align: left;
+    padding-bottom: 5%;
+}
+section > h2{
+    font-weight: 500;
+    display: inline;
+}
+.striscia{
+    margin-top: 2px;
+    height: 25px;
+    border-radius: 5px;
+}
+#giallo{
+    width: 50%;
+    background-color: rgb(207, 173, 19);  
+}
+#verde{
+    width: 70%;
+    background-color: rgb(25, 201, 25);
+}
+#rosso{
+    width: 30%;
+    background-color: rgb(235, 73, 73);
+}
+h1{
+    font-weight: 500;
+    margin: 0 auto;
+}
